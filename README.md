@@ -1,5 +1,5 @@
 # Zets-Hair-More-Locations
-Adds hairs, eyes and skin for the More Locations, used with DeadPeopleTileset
+Adds hairs, eyes and skin for the mod More Locations, used with DeadPeopleTileset
 
 # Dependencies
 [Zetsukaze's Hair Extensions](https://github.com/Zetsukaze/Zets-Hair-Extensions)
